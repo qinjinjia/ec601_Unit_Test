@@ -7,13 +7,13 @@
   
   The Author: :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
-  **Task 1-Bootstrap WEB application:**
-    
+  **The Unit Test Assignment is based on [EC601 HW2 Mini Project](https://github.com/qinjinjia/ec601_miniproject)**
+      
   **Link:link:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)** 
   
-  **Task 2-Firebase Chat:**
-  
   **Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
+  
+  
    
   **Trello:link:https://trello.com/b/CQQCu2RA/buec601a1miniproject**
    
