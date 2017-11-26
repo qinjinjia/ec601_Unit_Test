@@ -14,19 +14,16 @@
   **Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
   
   
-  ** Task 1 **
+  :sun_with_face: **Task 1 - Test Cases**
    
-  Generate your own test cases.
+  -Generate your own test cases.
 
-  Run your own black box testing
+  -Run your own black box testing
 
-  ** Task 2 **
+  :full_moon_with_face: **Task 2 - Automated Test**
   
-  Run an automated test, e.g., AWS test farm and monkey test.
+  -Run an automated test, e.g., AWS test farm and monkey test.
 
-  Interpret the results
-
-  
-  **Trello:link:https://trello.com/b/CQQCu2RA/buec601a1miniproject**
+  -Interpret the results
    
   :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns.
