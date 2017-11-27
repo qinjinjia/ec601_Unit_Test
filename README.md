@@ -34,7 +34,7 @@
 
 **2) Interpret the results.**
 
-**Due to the APP developed in HW2 is the Resume Website, **
+**Due to the APP developed in HW2 is the Resume Website,**
 **[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test**
 
 The automated test tests the website on two differnt platforms: **Mac Safair(version 11) and Window 10 Chrome(version 61)**
