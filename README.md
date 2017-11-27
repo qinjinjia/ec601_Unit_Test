@@ -30,6 +30,6 @@
 
 ## :full_moon_with_face: **Task 2 - Automated Test**
   
-  -Run an automated test, e.g., AWS test farm and monkey test.
+**1) Run an automated test, e.g., AWS test farm and monkey test.**
 
-  -Interpret the results
+**2) Interpret the results.**
