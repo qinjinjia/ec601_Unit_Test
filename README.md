@@ -40,11 +40,11 @@ https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py
 
 https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py
 
-"""#python
-        caps['name'] = 'Qinjin Jia's Resume'
+```#python
+        caps['name'] = 'Qinjin Jia's Resume'
         caps['build'] = '1.0'
         caps['browserName'] = 'Chrome'
         caps['version'] = '61x64'
         caps['platform'] = 'Windows 10'
         caps['screenResolution'] = '1366x768'
-"""
+```
