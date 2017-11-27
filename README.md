@@ -31,4 +31,4 @@
   
   **Link:link:[Qinjin Jia's Resume Test Case Sheet.xlsx](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Qinjin%20Jia's%20Resume%20Test%20Case%20Sheet.xlsx)** 
   
-  <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Unit%20Test%20Screenshot.png" width="600" height="400">
+  <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Unit%20Test%20Screenshot.png" width="400" height="300">
