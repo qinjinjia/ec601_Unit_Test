@@ -74,6 +74,9 @@ OK
 |Checking title |Successful |
 
 
+</br>
+
+
 [Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
 
 Automated Test Platform(Window 10 Chrome) parameters:
