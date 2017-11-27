@@ -24,7 +24,7 @@ class BasicTest(unittest.TestCase):
 
         caps = {}
         
-        caps['name'] = 'Basic Test Example'
+        caps['name'] = 'Qinjin Jia's Resume'
         caps['build'] = '1.0'
         caps['browserName'] = 'Chrome'
         caps['version'] = '61x64'
