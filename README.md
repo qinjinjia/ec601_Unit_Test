@@ -33,3 +33,7 @@
 **1) Run an automated test, e.g., AWS test farm and monkey test.**
 
 **2) Interpret the results.**
+
+https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py
+
+https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py
