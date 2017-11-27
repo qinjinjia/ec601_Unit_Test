@@ -37,10 +37,9 @@
 **Due to the APP developed in HW2 is the Resume Website**
 **[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test**
 
-[Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py)
+
 
 [Script for Web automated Test on Mac Safari](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
-
 
 ```#python
         caps['name'] = 'Qinjin Jia's Resume'
@@ -50,6 +49,8 @@
         caps['platform'] = ''
         caps['screenResolution'] = '1366x768'
 ```
+
+[Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py)
 
 ``` #python
         caps['name'] = 'Qinjin Jia's Resume'
