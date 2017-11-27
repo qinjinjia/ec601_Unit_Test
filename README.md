@@ -27,3 +27,8 @@
   -Interpret the results
    
   :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns.
+  
+  
+  **Link:link:[Qinjin Jia's Resume Test Case Sheet.xlsx](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Qinjin%20Jia's%20Resume%20Test%20Case%20Sheet.xlsx)** 
+  
+  <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Unit%20Test%20Screenshot.png" width="600" height="400">
