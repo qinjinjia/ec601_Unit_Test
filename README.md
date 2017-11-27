@@ -40,7 +40,7 @@ https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py
 
 https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py
 
-```#python
+``` #python
         caps['name'] = 'Qinjin Jia's Resume'
         caps['build'] = '1.0'
         caps['browserName'] = 'Chrome'
