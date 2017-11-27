@@ -48,3 +48,12 @@ https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py
         caps['platform'] = 'Windows 10'
         caps['screenResolution'] = '1366x768'
 ```
+
+```#python
+        caps['name'] = 'Qinjin Jia's Resume'
+        caps['build'] = '1.0'
+        caps['browserName'] = 'Safari'
+        caps['version'] = '11'
+        caps['platform'] = ''
+        caps['screenResolution'] = '1366x768'
+```
