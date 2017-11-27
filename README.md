@@ -52,7 +52,20 @@ Automated Test Platform(Mac Safari) parameters:
         caps['screenResolution'] = '1366x768'
 ```
 **The automated test results(Mac Safari):** 
+```
+dhcp-wifi-8021x-155-41-104-88:Desktop Banyan$ python webunittest_safair.py
+Loading Url
+Maximizing window
+Checking title
+Done with session c1f20e48-40a6-4948-ac1d-1ce0a823535f
+./anaconda3/lib/python3.6/unittest/suite.py:84: ResourceWarning: unclosed <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('155.41.104.88', 62538), raddr=('104.20.76.153', 443)>
+  return self.run(*args, **kwds)
 
+----------------------------------------------------------------------
+Ran 1 test in 6.576s
+
+OK
+```
 
 
 [Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
@@ -68,3 +81,17 @@ Automated Test Platform(Window 10 Chrome) parameters:
         caps['screenResolution'] = '1366x768'
 ```
 **The automated test results(Window 10 Chrome):** 
+```
+dhcp-wifi-8021x-155-41-104-88:Desktop Banyan$ python webunittest_chrome.py
+Loading Url
+Maximizing window
+Checking title
+Done with session 2feaa9ba-8fe4-4270-b29d-2943c3d6a5f6
+./anaconda3/lib/python3.6/unittest/suite.py:84: ResourceWarning: unclosed <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('155.41.104.88', 62345), raddr=('104.20.35.153', 443)>
+  return self.run(*args, **kwds)
+
+----------------------------------------------------------------------
+Ran 1 test in 10.293s
+
+OK
+```
