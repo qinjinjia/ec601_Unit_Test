@@ -12,23 +12,22 @@
   **Link:link:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)** 
   
   **Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
+     
+  :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns.
   
   
-  :sun_with_face: **Task 1 - Test Cases**
+## :sun_with_face: **Task 1 - Test Cases**
    
   -Generate your own test cases.
 
   -Run your own black box testing
-
-  :full_moon_with_face: **Task 2 - Automated Test**
-  
-  -Run an automated test, e.g., AWS test farm and monkey test.
-
-  -Interpret the results
-   
-  :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns.
-  
   
   **Link:point_right: [Qinjin Jia's Resume Test Case Sheet.xlsx:link:](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Qinjin%20Jia's%20Resume%20Test%20Case%20Sheet.xlsx)** 
   
   <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Unit%20Test%20Screenshot.png" width="400" height="200">
+
+## :full_moon_with_face: **Task 2 - Automated Test**
+  
+  -Run an automated test, e.g., AWS test farm and monkey test.
+
+  -Interpret the results
