@@ -38,7 +38,6 @@
 **[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test**
 
 
-
 [Script for Web automated Test on Mac Safari](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
 
 ```#python
