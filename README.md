@@ -39,7 +39,9 @@
 
 The automated test tests the website on two differnt platforms: **Mac Safair(version 11) and Window 10 Chrome(version 61)**
 
-[Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
+[Script for Web automated Test on Mac Safari](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py)
+
+Automated Test Platform(Mac Safari) parameters:
 
 ```#python
         caps['name'] = 'Qinjin Jia's Resume'
@@ -49,10 +51,13 @@ The automated test tests the website on two differnt platforms: **Mac Safair(ver
         caps['platform'] = ''
         caps['screenResolution'] = '1366x768'
 ```
+**The automated test results(Mac Safari):** 
 
-**The automated test results(Window 10 Chrome):** 
 
-[Script for Web automated Test on Mac Safari](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py)
+
+[Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
+
+Automated Test Platform(Window 10 Chrome) parameters:
 
 ``` #python
         caps['name'] = 'Qinjin Jia's Resume'
@@ -62,4 +67,4 @@ The automated test tests the website on two differnt platforms: **Mac Safair(ver
         caps['platform'] = 'Windows 10'
         caps['screenResolution'] = '1366x768'
 ```
-**The automated test results(Mac Safari):** 
+**The automated test results(Window 10 Chrome):** 
