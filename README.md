@@ -35,6 +35,7 @@
 **2) Interpret the results.**
 
 **Due to the APP developed in HW2 is the Resume Website**
+**[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test**
 
 https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_safair.py
 
