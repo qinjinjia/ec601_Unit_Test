@@ -67,6 +67,12 @@ Ran 1 test in 6.576s
 OK
 ```
 
+|Check |Result |    
+|---|---  
+|Loading Url|Successful |
+|Maximizing window |Successful |
+|Checking title |Successful |
+
 
 [Script for Web automated Test on Window 10 Chrome](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/webunittest_chrome.py)
 
@@ -95,3 +101,9 @@ Ran 1 test in 10.293s
 
 OK
 ```
+
+|Check |Result |    
+|---|---  
+|Loading Url|Successful |
+|Maximizing window |Successful |
+|Checking title |Successful |
