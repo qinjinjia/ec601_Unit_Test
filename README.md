@@ -25,6 +25,7 @@
   **Link:point_right: [Qinjin Jia's Resume Test Case Sheet.xlsx:link:](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Qinjin%20Jia's%20Resume%20Test%20Case%20Sheet.xlsx)** 
   
   Screenshot of the Test Case Sheet:
+  
   <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Unit%20Test%20Screenshot.png" width="400" height="200">
 
 ## :full_moon_with_face: **Task 2 - Automated Test**
