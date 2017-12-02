@@ -121,5 +121,5 @@ OK
 
 The automated test tests the Android APP on five differnt devices:
 
-  <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Android%20APP%20AWS%20Unit%20Test%20devices%20list.png" width="600" height="400">
+  <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Android%20APP%20AWS%20Unit%20Test%20devices%20list.png" width="600" height="300">
 
