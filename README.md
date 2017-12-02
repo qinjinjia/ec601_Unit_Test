@@ -119,7 +119,7 @@ OK
 
 **[AWS application testing](https://aws.amazon.com/device-farm/) is used for the automated test of the forked Android APP [app-release.apk](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/app-release.apk)**
 
-The automated test tests the Android APP on five differnt devices:
+The automated test tests the **Android APP** on five differnt devices:
 
   <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Android%20APP%20AWS%20Unit%20Test%20devices%20list.png" width="600" height="250">
 
