@@ -115,7 +115,7 @@ OK
 **Due to the APP developed in my HW2 is the Resume Website,**
 **[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test of my developed WEB APP in HW2.**
 
-However, **learning the automated test for Android APP with AWS application testing is also important. Therefore, an Android APP [app-release.apk](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/app-release.apk) is forked from the repository [MyFirstAndroidApp](https://github.com/developerChenRui/MyFirstAndroidApp) of [developerChenRui](https://github.com/developerChenRui) with authorization. Thanks :tada:!**
+However, **learning the automated test for Android APP with AWS application testing is also important. Therefore, an Android APP [app-release.apk](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/app-release.apk) is forked from the repository [MyFirstAndroidApp](https://github.com/developerChenRui/MyFirstAndroidApp) of :girl: [developerChenRui](https://github.com/developerChenRui) with authorization. Thanks :tada:!**
 
 **[AWS application testing](https://aws.amazon.com/device-farm/) is used for the automated test of the forked Android APP [app-release.apk](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/app-release.apk).**
 
@@ -156,3 +156,7 @@ According to the detaield results, **there are no failure detected.**
 |Setup Suite |Successful |
 |Built-in Explorer Test Suite |Successful |
 |Teardown |Successful |
+
+:sun_with_face: **Finally, thank you for watching :D)**:exclamation:
+
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
