@@ -124,3 +124,11 @@ The automated test tests the **Android APP** on five differnt devices:
 <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Android%20APP%20AWS%20Unit%20Test%20devices%20list.png" width="600" height="200">
 
  <img src="https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Android%20APP%20AWS%20Unit%20Test%20Suites%20and%20Results.png" width="600" height="200">
+ 
+ |Device |Test Video |    
+|---|---  
+|Loading UrlAmazon Kindle Fire HDX 7 (2013)|[Amazon Kindle Fire HDX 7 (2013).mp4](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/Test%20Videos%20Generated%20by%20AWS/Amazon%20Kindle%20Fire%20HDX%207%20(2013).mp4) |
+|LG G Pad 7.0" (AT&T) |[LG G Pad 7.0" (AT&T).mp4]() |
+|Samsung Galaxy S5 (T-Mobile) |[Samsung Galaxy S5 (T-Mobile).mp4]() |
+|Samsung Galaxy S6 (Verizon) |[Samsung Galaxy S6 (Verizon).mp4]() |
+|Samsung Galaxy Tab 4 10.1" (WiFi) |[Samsung Galaxy Tab 4 10.1" (WiFi).mp4]() |
