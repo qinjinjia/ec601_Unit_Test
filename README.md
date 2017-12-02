@@ -149,4 +149,10 @@ AppExplorer version: 9, Package: com.example.chenrui.myapplication, Launchable: 
 ```
 {"rootCause":"NO_FAILURE_DETECTED","isWifiConnected":true,"isLaunchScreenshotTaken":true,"isOpenGLApp":false,"unsuccessfulWatcherCount":0,"unvisitedComponentCount":0,"visitedComponentCount":1,"imageCount":0,"deviceFingerprint":"samsung\/matissewifiopenbnn\/matissewifiopenbnn:4.4.2\/KOT49H\/T530NUOVU1AOA2:user\/release-keys","ignoredComponentCount":0,"isLaunchSuccessful":true,"visitedScreenCount":1,"isExitDetected":false,"isCrashDetected":false,"totalTimeInMillis":31841,"isExitAfterSystemPopup":false,"visitedActivities":"[.MainActivity]","visitedActivityCount":1,"observation":"PASSED_BY_AVS","eventCount":2,"successfulWatcherCount":0,"securityThreat":"NO_ISSUE","sessionCount":1,"pid":11715,"securityStatus":{"totalOpenedSockets":0,"totalConnection":0,"totalOpenedPorts":0,"socketStats":[]},"isWebViewApp":false,"isExitAfterApplicationPopup":false,"isDropboxLogCollected":false,"isNonNativeViewApp":false,"isEntitlementPopup":false}
 ```
-According to the detaield results, there are no failure detected.
+According to the detaield results, **there are no failure detected.**
+
+|Test Suite |Result |    
+|---|---  
+|Setup Suite |Successful |
+|Built-in Explorer Test Suite |Successful |
+|Teardown |Successful |
