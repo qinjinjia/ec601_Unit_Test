@@ -110,3 +110,6 @@ OK
 |Loading Url|Successful |
 |Maximizing window |Successful |
 |Checking title |Successful |
+
+## :full_moon:  **Task 2(Additional) - Automated Test for APP**
+
