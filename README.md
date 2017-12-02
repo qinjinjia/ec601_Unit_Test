@@ -111,6 +111,5 @@ OK
 |Maximizing window |Successful |
 |Checking title |Successful |
 
-</br>
 ## :full_moon:  **Task 2(Additional) - Automated Test for Android**
 
