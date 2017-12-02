@@ -113,7 +113,7 @@ OK
 
 ## :full_moon:  **Task 2(Additional) - Automated Test for Android APP**
 **Due to the APP developed in my HW2 is the Resume Website,**
-**[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test of my developed APP in HW2.**
+**[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test of my developed WEB APP in HW2.**
 
 **However, learning the automated test for Android APP with AWS application testing is also important. Therefore, an Android APP [app-release.apk](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/app-release.apk) is forked from the repository [MyFirstAndroidApp](https://github.com/developerChenRui/MyFirstAndroidApp) of [developerChenRui](https://github.com/developerChenRui). Thanks :tada:!**
 
