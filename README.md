@@ -111,5 +111,12 @@ OK
 |Maximizing window |Successful |
 |Checking title |Successful |
 
-## :full_moon:  **Task 2(Additional) - Automated Test for Android**
+## :full_moon:  **Task 2(Additional) - Automated Test for Android APP**
+**Due to the APP developed in my HW2 is the Resume Website,**
+**[CrossBrowserTesting](https://app.crossbrowsertesting.com/test-center) is used for the automated test**
+
+**However, learning the automated test for Android APP with AWS application testing is also important**
+
+**Therefore, an Android APP [app-release.apk](https://github.com/qinjinjia/ec601_Unit_Test/blob/master/app-release.apk) is forked from the repository [MyFirstAndroidApp](https://github.com/developerChenRui/MyFirstAndroidApp) of [developerChenRui](https://github.com/developerChenRui). Thanks**
+
 
